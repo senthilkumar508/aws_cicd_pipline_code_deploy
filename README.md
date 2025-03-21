@@ -1,6 +1,6 @@
 # Senthilkumar AWS CICD Pipeline Code Deployment to AWS EC2 Instance
-<b> Ensures that the EC2 instance is ready to be used with AWS CodeDeploy for automating deployments.
-    Installs AWS CLI to interact with AWS services programmatically.
+<b> Ensures that the EC2 instance is ready to be used with AWS CodeDeploy for automating deployments.<br>
+    Installs AWS CLI to interact with AWS services programmatically.<br>
     Automatically executes at the first boot of the EC2 instance. </b>
 
 
